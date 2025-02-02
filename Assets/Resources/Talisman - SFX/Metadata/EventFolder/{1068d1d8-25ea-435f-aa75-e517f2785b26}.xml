@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{1068d1d8-25ea-435f-aa75-e517f2785b26}">
+		<property name="name">
+			<value>n) Left Puzzle Room Failure</value>
+		</property>
+		<relationship name="folder">
+			<destination>{625494c3-1457-4baf-a213-9fb4a8ccc2d7}</destination>
+		</relationship>
+	</object>
+</objects>

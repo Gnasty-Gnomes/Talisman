@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a9c72587-3e82-4fba-8439-dc8fd3c38a2d}">
+		<property name="assetPath">
+			<value>c) Sword Room Cutscene/01_Player_Page04_Line01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.5598749999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdf32436-090c-431f-9ceb-bb6d786bee55}</destination>
+		</relationship>
+	</object>
+</objects>

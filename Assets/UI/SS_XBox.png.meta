@@ -1,0 +1,1083 @@
+fileFormatVersion: 2
+guid: 6e01ba7d51b61544ab1dbb6b77a8ab92
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_XBox_Y
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 480
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b67c4f69ebab43bab02e27eaf9c6d
+      internalID: -856660294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_B
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 480
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023335ce270883145ae7fcbf27007054
+      internalID: -981430735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_A
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 480
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e1f5a26dcac44e8b3cd0bf94c71b5
+      internalID: -1419722464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_X
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 480
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8d3f04ccbd564468168ca06fb75401
+      internalID: -2000129695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_YBW
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 432
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ca83e94180314d900d47fb7188cda
+      internalID: -284917174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_BBW
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 432
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57c655b6608de41978ecf7b681fd13
+      internalID: -535710315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_ABW
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 432
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b050d716cb86645bbea0726b84fd5f
+      internalID: 1860910366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_XBW
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22729ea148356434e80fa29610cd8ad0
+      internalID: 518450313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LB
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 37
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88b16feecf7e944a8a7a7aacb521ed
+      internalID: 934886613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RB
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 386
+        width: 37
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd012fda8227440b6c2f8700c8379b
+      internalID: 1449189947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LT
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 382
+        width: 29
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef4663c4cf694840834a24e7c9e91b6
+      internalID: 1002611753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RT
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 382
+        width: 29
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08737039fd994c4bb7a320b626d03d7
+      internalID: 228437129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_DPadUp
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 333
+        width: 35
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a948da0867838468608c3e056ab14a
+      internalID: 1811413149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_DPadDown
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 333
+        width: 35
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46a73456aebb043992a6769658046e
+      internalID: 1578386676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_DPadLeft
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 334
+        width: 35
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4845d1b4eab4c245a43826cb245399b
+      internalID: 675930541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_DPadRight
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 35
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868570626e6614c46be3471cce1f4fc3
+      internalID: -1612494068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStick4AXis
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 284
+        width: 38
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71402047026d49d4da954ccfaf4fd85d
+      internalID: -1784628928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStick
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 292
+        width: 23
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384df6d3c880434b87da5833f8f1753
+      internalID: -415600174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickHAxis
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 292
+        width: 38
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f582c70c829932f4193040585d744fe4
+      internalID: 105619843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickVAxis
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 284
+        width: 23
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27413200481e75e498903ea8fa45b5fc
+      internalID: 1627738204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickUp
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 244
+        width: 23
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7803896d6d99e42ba1b6c330255a0d
+      internalID: -1039402844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickDown
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 238
+        width: 23
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0c6e57e65ec8478d5b3b74653b902
+      internalID: 1905488791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickLeft
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 30
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0bebebb7067f941a92b837b6a04b6a
+      internalID: 801482408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickRight
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 244
+        width: 30
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee08349a9bfb5ce439a84bc104689ea8
+      internalID: -1905151632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStick4Axis
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 189
+        width: 38
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ae9966f90b534bb36076f2f1e48fd
+      internalID: -1854066920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStick
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 23
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4531ebc860164eaa8a1b562a81121
+      internalID: -1175622017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickHAxis
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 197
+        width: 38
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d43374c6185ce54db45671b1ff1c6da
+      internalID: -519767391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickVAxis
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 189
+        width: 23
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061549816d5cd7747964a82185d89cc0
+      internalID: -528911923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickUp
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 149
+        width: 23
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf9f185ef157374ba6e98423f9ba560
+      internalID: 353177622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickDown
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 142
+        width: 23
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3080aa5c2523bc845af4be493e702c51
+      internalID: 455819175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickLeft
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 149
+        width: 30
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a093e9709f1b444b0e14a03138bcc9
+      internalID: -1858558053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickRight
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 30
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d0d5812f78f754c81f5a7831a384ea
+      internalID: 2074223396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_DPad
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 35
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06953ebab21809468a91e78bbed1c63
+      internalID: -718870148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_DPadVAxis
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 35
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b80501b02381e54bac2f6535ff88cfb
+      internalID: 1444570722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_DPadHAxis
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 35
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06e65ae51aaf2d4a8ce2ccee0c642ad
+      internalID: -1034825526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_Share
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 103
+        width: 32
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88387f08000244ab0ff01f42900411
+      internalID: -2046856369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickPress
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 37
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8aff147cf6d574a92da43ac952e129
+      internalID: -1220117473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickPress
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 37
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76537a3e9552fc149838e4293fc05384
+      internalID: 997709860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_LeftStickHold
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 37
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18db4d297b43d2a42ae153d76ac5f4f1
+      internalID: -1604306634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_RightStickHold
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 37
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2336d411765ff43870852dfa321929
+      internalID: -2060452975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_Start
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e1d5d4769c5844e9fd7172cc359ca7
+      internalID: -938522064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_XBox_Select
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcd5cd0b107e0b40bcce6e60eb24ea8
+      internalID: -90208799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 86c59181f8ac1c443b907c3f677b36cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SS_XBox_RT: 228437129
+      SS_XBox_LeftStickHAxis: 105619843
+      SS_XBox_Share: -2046856369
+      SS_XBox_20: 1791465976
+      SS_XBox_DPad: -718870148
+      SS_XBox_RightStick4Axis: -1854066920
+      SS_XBox_DPadVAxis: 1444570722
+      SS_XBox_47: 1772941039
+      SS_XBox_DPadLeft: 675930541
+      SS_XBox_X: -2000129695
+      SS_XBox_RightStickHAxis: -519767391
+      SS_XBox_31: 733997082
+      SS_XBox_LeftStickUp: -1039402844
+      SS_XBox_18: 1457185885
+      SS_XBox_LeftStick: -415600174
+      SS_XBox_40: 1322449493
+      SS_XBox_42: -2136745518
+      SS_XBox_BBW: -535710315
+      SS_XBox_28: 305879552
+      SS_XBox_51: -94779145
+      SS_XBox_LeftStickDown: 1905488791
+      SS_XBox_17: 510532404
+      SS_XBox_48: -46611288
+      SS_XBox_38: 1110945270
+      SS_XBox_LeftStickRight: -1905151632
+      SS_XBox_54: -446433284
+      SS_XBox_37: -1007975435
+      SS_XBox_35: -1477158613
+      SS_XBox_DPadDown: 1578386676
+      SS_XBox_LeftStickLeft: 801482408
+      SS_XBox_55: -947941794
+      SS_XBox_RightStickPress: 997709860
+      SS_XBox_DPadUp: 1811413149
+      SS_XBox_Select: -90208799
+      SS_XBox_A: -1419722464
+      SS_XBox_RB: 1449189947
+      SS_XBox_XBW: 518450313
+      SS_XBox_44: 869909458
+      SS_XBox_YBW: -284917174
+      SS_XBox_22: -2085496304
+      SS_XBox_41: 1632144960
+      SS_XBox_LB: 934886613
+      SS_XBox_DPadHAxis: -1034825526
+      SS_XBox_B: -981430735
+      SS_XBox_RightStickVAxis: -528911923
+      SS_XBox_RightStickRight: 2074223396
+      SS_XBox_Y: -856660294
+      SS_XBox_RightStick: -1175622017
+      SS_XBox_21: -1465091505
+      SS_XBox_24: -1881452738
+      SS_XBox_34: 1601068263
+      SS_XBox_RightStickDown: 455819175
+      SS_XBox_RightStickLeft: -1858558053
+      SS_XBox_LeftStick4AXis: -1784628928
+      SS_XBox_LeftStickVAxis: 1627738204
+      SS_XBox_ABW: 1860910366
+      SS_XBox_LeftStickHold: -1604306634
+      SS_XBox_46: 963388664
+      SS_XBox_27: 972383625
+      SS_XBox_Start: -938522064
+      SS_XBox_DPadRight: -1612494068
+      SS_XBox_26: -1786225643
+      SS_XBox_RightStickUp: 353177622
+      SS_XBox_RightStickHold: -2060452975
+      SS_XBox_LT: 1002611753
+      SS_XBox_LeftStickPress: -1220117473
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

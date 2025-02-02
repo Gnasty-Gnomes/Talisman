@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d0748d35f9bc34f9c203e145f0b9a8, type: 3}
+  m_Name: S_Page14Line03
+  m_EditorClassIdentifier: 
+  m_eventReference:
+    Guid:
+      Data1: -342678351
+      Data2: 1139512173
+      Data3: -1874082923
+      Data4: 1398223617
+    Path: event:/Dialogue/s) Final Chamber/07_Sword_Page14_Line03
+  m_subtitle: "<b><i>(Laughs)</i></b> You\u2019ll just have to trust me."
+  m_isPlayer: 0

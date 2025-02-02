@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac5a7f3833ff08e438d6ddaf7b17dc70, type: 3}
+  m_Name: Statue Hallway 2
+  m_EditorClassIdentifier: 
+  m_section: 
+  m_sequence:
+  - {fileID: 11400000, guid: dca2b2485a4b02b4888a3c901524f3b3, type: 2}
+  - {fileID: 11400000, guid: 4059868e96317a8479da6862054623f3, type: 2}

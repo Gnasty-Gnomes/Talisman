@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac5a7f3833ff08e438d6ddaf7b17dc70, type: 3}
+  m_Name: Mana intro
+  m_EditorClassIdentifier: 
+  m_section: 
+  m_sequence:
+  - {fileID: 11400000, guid: 632bde17ff2f1704094f91957103c53d, type: 2}
+  - {fileID: 11400000, guid: 0f67d4e19718efb45b491c77a6bf124d, type: 2}
+  - {fileID: 11400000, guid: 972405f2547088b468274d9152e9142f, type: 2}
+  - {fileID: 11400000, guid: 92aa18d91cff2f141886dc37179df464, type: 2}
+  - {fileID: 11400000, guid: 0c7cb7bdd92d56b4b901ef3234fe4c1f, type: 2}

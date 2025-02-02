@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: 23c0d6b83f82c464782f9f34e1d8e434
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Keyboard_A
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 475
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ef86a4534bbe4fae6340f9e6a05d0
+      internalID: -1482919873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_B
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 475
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3e1d99f3dd8a48a3471fae30d483f
+      internalID: 437458811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_C
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 475
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb68c4238e1eda49a36748cc121f7b8
+      internalID: 2116824274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_D
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 475
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41cab1657d65fa4ab57ccd9d97f565a
+      internalID: -1501862295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_E
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 475
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed3516367ead545ad20cc5aa2ae6ae
+      internalID: -1725853245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 477
+        width: 31
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d779fa23d80244cb3b9acd8053038c
+      internalID: 1010609726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_G
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 475
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f4f3726496c74194a022b5d6a1f23
+      internalID: 1988969279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_H
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 475
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b215debce60c704aa6e9c562c8e7a08
+      internalID: 1469741260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_I
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 475
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f8003ab760e344b6ea3b80efab31a
+      internalID: -340759460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_J
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 475
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9deb6107bd8b74d8112fc670d74897
+      internalID: -175460211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_K
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 422
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb8bb5c10c7c748801535183a9eceb
+      internalID: 1665836681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_L
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 422
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e27dec5c8511440924f7dc34021e7a
+      internalID: 171641380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_M
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 422
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe8679ae6c7cd748932dc19575cc822
+      internalID: 2078615554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_N
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 422
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cbaabeaec5eb640a4f440ed1a15cf6
+      internalID: 1711803332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_O
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 423
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883105e0be5ef8d43a9b755c516d3b16
+      internalID: 94928161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_P
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 422
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00616658ccd95d240a38a82e6506b13b
+      internalID: -944994662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Q
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 423
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceaa56bc74c80b419b70b5641d21732
+      internalID: -1729405080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_R
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 422
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de925361685a3a4f95db23d91562d71
+      internalID: -80834945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_S
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 423
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35db3847e6bad4db236441fb2b2c80
+      internalID: 163756381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_T
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 422
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26063bf2f22c1a54faddc8fb93791413
+      internalID: 1081336031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_U
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 370
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2419e047de69bc43a0ad4131321a39b
+      internalID: -128872217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_V
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 370
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9fb34e05554b54eaf51b16cce739c4
+      internalID: -784774215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_X
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 370
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91cb00138feb3b459397d31252f0749
+      internalID: -1940425645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_W
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 370
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195d2954ce8fc7479823d417ffb2e0e
+      internalID: 1952138561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Y
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 370
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f360a39cb9c9f439443ca5df7d3878
+      internalID: -263186936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Z
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 370
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6d96b77533144bb81ae207eb096f8
+      internalID: -1483262769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 370
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af85ccec79f31b449b51096414446411
+      internalID: 1839882937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 370
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea722e5addd564b899aea161e52f6b
+      internalID: -1015559925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 370
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b7dc6beb94094f99567048b30309a
+      internalID: -1650942485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 370
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62152528e870bb940b5fdf562b1c3afe
+      internalID: 1791842466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 318
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ae1769eb1a47499b5f5c874e2c859
+      internalID: 611874741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 318
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90479866efa797498f0e0509f400f16
+      internalID: -1046517770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 318
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c76898eb6f1e4698897e77084cd5e
+      internalID: 216657428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 318
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f74d46461aaaef47b04a4d9eecaf1f9
+      internalID: -1596553749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 318
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ad227c9b1e5fb4d9ce3215dde75bc4
+      internalID: -274135768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 318
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d179238cacc90c4095d227bccea0001
+      internalID: 349643277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 318
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e639f0cd66012f14d92d2e907ee0a0ee
+      internalID: 2131713454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 318
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd55b3c432e5f04caa56413b9c006a5
+      internalID: 21908734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 318
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe32577cd1f43e4d99492c978cbbf69
+      internalID: 1493324483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 318
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74359c2846aca5e4a997db6df01e0f6d
+      internalID: 262785498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 266
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b7baeddbdc4242969b834fd59ccf9
+      internalID: 1420065881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 266
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3b404e56c2dc459728bf15b0cdea2
+      internalID: 832497943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 266
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce473f08773996489a9889d528067c1
+      internalID: -1839564630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 265
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83102276bc69d64aaf96e6a9041f5e1
+      internalID: -1230569974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 266
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd809055ae7d0940a06e7eadf99a0ff
+      internalID: -1393062720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 266
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c96838cf545e4a878254d6f3e680d
+      internalID: -1106576913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 266
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207f2c783bcb9645b8eda6a5df0b17b
+      internalID: -829352108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_F12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 266
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad2cbdf2833c94597c264cf0dd991f
+      internalID: 2015199234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_-
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 266
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194015caeb2198b488060a80d96836cb
+      internalID: 821621982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_+
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 266
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca928ba031b3a8144a6074a83c0f65de
+      internalID: 992290136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_~
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d4ea76dbf60324a9d143cb349e2123
+      internalID: -128134736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Asterisk
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 212
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be75cd72fdac1164c800322e139b7301
+      internalID: -630944643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_;
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 212
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484626d823c74aa42b9b83bd80915649
+      internalID: 1493943108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_ForwardSlash
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 212
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6ec49d5455d740b8ccb2c79867de2
+      internalID: 1418848655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_[
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 32
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4351d6c96b591a4ab2dcb964478a5c4
+      internalID: -769532672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_]
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 212
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365ae5ee27ce914bb6600bd0bd3afd1
+      internalID: 1233097277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Quotation
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 212
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec3dd5ffd08964a977fb3a2d87f7ec
+      internalID: -1362984963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Question
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 212
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef3aaee7fadbe4885679f03f980be0
+      internalID: -1323606148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Alt
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 217
+        width: 37
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde202f0e3947054795a17c77d5ed397
+      internalID: 8437797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_LeftChevron
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 214
+        width: 32
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192f4b02fb5c4bf4bb36d5bce9a0096c
+      internalID: -1897372845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_RightChevron
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d12a956fcba6d244a51ef1edb877e9e
+      internalID: 1466047378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Mouse
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 157
+        width: 24
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd6cdda97b87184c96fd10c89526b89
+      internalID: 1052692486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_MouseH
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 157
+        width: 40
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680798bba29f62d4a915371f82cb2fc0
+      internalID: -448608354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_MouseLeft
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 157
+        width: 24
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e1701edd0a414781779129fe3078a
+      internalID: -1736105747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_MouseRight
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 157
+        width: 25
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837ac56d05297845a314dde26d831db
+      internalID: -57394832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_ScrollClick
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 157
+        width: 25
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a401d1a6f1e1459772feeb0eb06dd
+      internalID: 112078187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_ScrollUpDown
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 157
+        width: 24
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122a4798eb642f04fa7cc85d6cbc600a
+      internalID: -1660775746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_ScrollUp
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 157
+        width: 25
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d057641f3a4c44bcd6d0a8b2f73ad
+      internalID: -1582213391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_MouseV
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 158
+        width: 16
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c05ee9172300184a8a3ebe9dd0e551e
+      internalID: 1391670506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Mouse360
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 157
+        width: 40
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89d1a02e668f54c8b8aac8cb354bb3
+      internalID: -1225995036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_ScrollDown
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 25
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c944a1db8778ac9488454b20bfba7aff
+      internalID: -591295897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Pointer
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 37
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b707f1c1879ed8b48a2a91150aff2f81
+      internalID: 350480311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Return
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 106
+        width: 35
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade24e39cb8157948844924c8b0f5b17
+      internalID: 1238861438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_EnterReturn
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 106
+        width: 34
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5808355c91904c92f11447149104b
+      internalID: -1066456777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Enter
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 104
+        width: 23
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6835d4b8e052e4a4fabc8b5419787dcd
+      internalID: -1285116750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Num+
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 22
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29504a04b9f289478d54f936bc07b9d
+      internalID: -629318032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_ShiftA
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 114
+        width: 41
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893fadb234474d54f982ce47303c0f9d
+      internalID: -1275616221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_ShiftB
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 112
+        width: 37
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e00bd7a7d0a80438a5c5d7325a1c39
+      internalID: -1998756466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_BackSpace
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 112
+        width: 36
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5464b5c9d78e4a641a32306545d05f04
+      internalID: -1857054499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Caps
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 112
+        width: 38
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778193f3f5dee6f4395dfa627d0e7185
+      internalID: -654775748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Esc
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52088a237cd969499e9d35179526324
+      internalID: 1692108424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Ctrl
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 59
+        width: 37
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04394ae1dd595c54b88f4788a0254624
+      internalID: -62292160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_End
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed5fec0051c5940bb089fb360c4714
+      internalID: 1818819478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_PageDown
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 55
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7613634a9372024e90fe1a46c6a1f40
+      internalID: 262459782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_PageUp
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 55
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71447a00a2d1fcb4e9ba9decad79ece3
+      internalID: -1626486995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_NumLock
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 55
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4316473df66c854297f7c371c9ce431
+      internalID: 729931231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Delete
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 55
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17de0ff29bdac1409006c9d7b048a2a
+      internalID: 1028135886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Space
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 63
+        width: 41
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5c4156d0810a48ac8d859438be86c
+      internalID: 1465063412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_UpArrow
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 55
+        width: 33
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9ba4a825f26dd4e8345d210b8dc33e
+      internalID: -1364408956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_DownArrow
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 55
+        width: 32
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad52b1115fdb3049ab9bb220d40342e
+      internalID: -31058465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_LeftArrow
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f6c7322683c9f4ea8aa78c76149530
+      internalID: -1490057448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_RightArrow
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df01f804c0ce8044a1c9ef4c0b1cdfe
+      internalID: 476834395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_PrintScreen
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b41797a03cea0b43abf336f7c9c83e4
+      internalID: -676306776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Home
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f0f906a195b342a65287e03cbab26
+      internalID: 1936737995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Tab
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7
+        width: 38
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a8b76ce3b0cb42b0ec51002d42026
+      internalID: -383047840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_Insert
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 33
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1d94042a2aa384dbd3821b119823c7
+      internalID: 1869970251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Keyboard_BackArrow
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 8
+        width: 37
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863aafd77b5871346ae43be93a13ba4d
+      internalID: 2065034738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a417c6a708a653944bb3f6b33ac625e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SS_Keyboard_T: -128872217
+      SS_Keyboard_F5: 832497943
+      SS_Keyboard_ScrollUp: -591295897
+      SS_Keyboard_Return: -1066456777
+      SS_Keyboard_F10: -829352108
+      SS_Keyboard_F4: 1420065881
+      SS_Keyboard_77: 625731006
+      SS_Keyboard_1: -1650942485
+      SS_Keyboard_Insert: 1869970251
+      SS_Keyboard_F11: 2015199234
+      SS_Keyboard_Mouse: -448608354
+      SS_Keyboard_G: 1469741260
+      SS_Keyboard_+: 1466047378
+      SS_Keyboard_Esc: -62292160
+      SS_Keyboard_H: -340759460
+      SS_Keyboard_ShiftA: -1998756466
+      SS_Keyboard_W: -263186936
+      SS_Keyboard_K: 171641380
+      SS_Keyboard_Enter: -629318032
+      SS_Keyboard_Delete: 1465063412
+      SS_Keyboard_Pointer: 1238861438
+      SS_Keyboard_EnterReturn: -1285116750
+      SS_Keyboard_ShiftB: -1857054499
+      SS_Keyboard_BackSpace: -654775748
+      SS_Keyboard_Space: -1364408956
+      SS_Keyboard_MouseV: -1225995036
+      SS_Keyboard_3: 611874741
+      SS_Keyboard_9: 2131713454
+      SS_Keyboard_F7: -1230569974
+      SS_Keyboard_2: 1791842466
+      SS_Keyboard_7: -274135768
+      SS_Keyboard_O: -944994662
+      SS_Keyboard_S: 1081336031
+      SS_Keyboard_F2: 1493324483
+      SS_Keyboard_Quotation: -1362984963
+      SS_Keyboard_A: 437458811
+      SS_Keyboard_Y: -1483262769
+      SS_Keyboard_P: -1729405080
+      SS_Keyboard_Num+: -1275616221
+      SS_Keyboard_75: 1827743524
+      SS_Keyboard_X: 1952138561
+      SS_Keyboard_E: 1010609726
+      SS_Keyboard_F1: 21908734
+      SS_Keyboard_I: -175460211
+      SS_Keyboard_LeftChevron: -1897372845
+      SS_Keyboard_NumLock: 1028135886
+      SS_Keyboard_ScrollDown: 350480311
+      SS_Keyboard_6: -1596553749
+      SS_Keyboard_J: 1665836681
+      SS_Keyboard_5: 216657428
+      SS_Keyboard_R: 163756381
+      SS_Keyboard_Asterisk: -630944643
+      SS_Keyboard_Q: -80834945
+      SS_Keyboard_Alt: 1052692486
+      SS_Keyboard_End: 262459782
+      SS_Keyboard_B: 2116824274
+      SS_Keyboard_PageDown: -1626486995
+      SS_Keyboard_PageUp: 729931231
+      SS_Keyboard_DownArrow: -1490057448
+      SS_Keyboard_73: -630944643
+      SS_Keyboard_RightChevron: 1466047378
+      SS_Keyboard_MouseLeft: -57394832
+      SS_Keyboard_4: -1046517770
+      SS_Keyboard_-: 992290136
+      SS_Keyboard_UpArrow: -31058465
+      SS_Keyboard_LeftArrow: -1490057448
+      SS_Keyboard_F: 1988969279
+      SS_Keyboard_ForwardSlash: 1418848655
+      SS_Keyboard_U: -784774215
+      SS_Keyboard_Home: 1936737995
+      SS_Keyboard_N: 94928161
+      SS_Keyboard_L: 2078615554
+      SS_Keyboard_F3: 262785498
+      SS_Keyboard_F6: -1839564630
+      SS_Keyboard_ScrollClick: -1582213391
+      SS_Keyboard_Mouse360: -1736105747
+      SS_Keyboard_RightArrow: 476834395
+      SS_Keyboard_70: 2074127575
+      SS_Keyboard_64: -1481896941
+      SS_Keyboard_D: -1725853245
+      SS_Keyboard_63: 476834395
+      SS_Keyboard_Caps: 1692108424
+      SS_Keyboard_F9: -1106576913
+      SS_Keyboard_]: -1362984963
+      SS_Keyboard_PrintScreen: -676306776
+      SS_Keyboard_0: -1015559925
+      SS_Keyboard_F8: -1393062720
+      SS_Keyboard_Z: 1839882937
+      SS_Keyboard_;: -769532672
+      SS_Keyboard_71: 233051512
+      SS_Keyboard_Ctrl: 1818819478
+      SS_Keyboard_ScrollUpDown: 112078187
+      SS_Keyboard_M: 1711803332
+      SS_Keyboard_[: 1233097277
+      SS_Keyboard_76: -1897372845
+      SS_Keyboard_8: 349643277
+      SS_Keyboard_~: 1493943108
+      SS_Keyboard_MouseH: 1391670506
+      SS_Keyboard_Question: -1323606148
+      SS_Keyboard_F12: 821621982
+      SS_Keyboard_V: -1940425645
+      SS_Keyboard_C: -1501862295
+      SS_Keyboard_Tab: -383047840
+      SS_Keyboard_MouseRight: -1660775746
+      SS_Keyboard_BackArrow: 2065034738
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

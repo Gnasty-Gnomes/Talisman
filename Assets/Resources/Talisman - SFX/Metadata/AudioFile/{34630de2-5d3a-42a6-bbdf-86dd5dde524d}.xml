@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{34630de2-5d3a-42a6-bbdf-86dd5dde524d}">
+		<property name="assetPath">
+			<value>SFX/Puzzle/SFX_Puzzle_Rotating_Disc_02_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.5307291666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdf32436-090c-431f-9ceb-bb6d786bee55}</destination>
+		</relationship>
+	</object>
+</objects>

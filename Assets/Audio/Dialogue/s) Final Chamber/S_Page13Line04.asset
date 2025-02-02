@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d0748d35f9bc34f9c203e145f0b9a8, type: 3}
+  m_Name: S_Page13Line04
+  m_EditorClassIdentifier: 
+  m_eventReference:
+    Guid:
+      Data1: -440792873
+      Data2: 1316341285
+      Data3: 989435029
+      Data4: -488703838
+    Path: event:/Dialogue/s) Final Chamber/01_Sword_Page13_Line04
+  m_subtitle: Finally, we made it.
+  m_isPlayer: 0

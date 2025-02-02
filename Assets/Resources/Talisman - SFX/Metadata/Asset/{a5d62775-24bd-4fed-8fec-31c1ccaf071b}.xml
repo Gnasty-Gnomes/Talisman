@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{a5d62775-24bd-4fed-8fec-31c1ccaf071b}">
+		<property name="assetPath">
+			<value>u) Player Grunts/Fight/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bdf32436-090c-431f-9ceb-bb6d786bee55}</destination>
+		</relationship>
+	</object>
+</objects>

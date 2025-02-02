@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac5a7f3833ff08e438d6ddaf7b17dc70, type: 3}
+  m_Name: Final Chamber
+  m_EditorClassIdentifier: 
+  m_section: 
+  m_sequence:
+  - {fileID: 11400000, guid: 3150ab7fbc860d6438b5d85fce4a8ee0, type: 2}
+  - {fileID: 11400000, guid: 572e29bc1cedbfc42a32fb0febf3ac22, type: 2}
+  - {fileID: 11400000, guid: 1d9c61df36d9797428042cd2b9282332, type: 2}
+  - {fileID: 11400000, guid: cd268a9af19265b42841b88d69a9e9a8, type: 2}
+  - {fileID: 11400000, guid: d6db384a605626248acec43c90da85da, type: 2}
+  - {fileID: 11400000, guid: c0fe16297549b72479b3dc248b6984b2, type: 2}
+  - {fileID: 11400000, guid: 5c789cdf35f648a42b6552398f77961c, type: 2}

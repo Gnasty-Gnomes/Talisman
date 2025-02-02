@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d0748d35f9bc34f9c203e145f0b9a8, type: 3}
+  m_Name: P_Page06Line04
+  m_EditorClassIdentifier: 
+  m_eventReference:
+    Guid:
+      Data1: 1596964484
+      Data2: 1114585032
+      Data3: 2124442812
+      Data4: -1200181910
+    Path: event:/Dialogue/f) Central Room/05_Player_Page06_Line04
+  m_subtitle: What...? Magic?
+  m_isPlayer: 1

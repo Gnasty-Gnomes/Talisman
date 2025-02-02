@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d0748d35f9bc34f9c203e145f0b9a8, type: 3}
+  m_Name: P_Page12Line05
+  m_EditorClassIdentifier: 
+  m_eventReference:
+    Guid:
+      Data1: -685568463
+      Data2: 1122242378
+      Data3: -1901710917
+      Data4: -1200039492
+    Path: event:/Dialogue/p) Post-Left Puzzle Room/01_Player_Page12_Line05
+  m_subtitle: Oh, thank the gods, a way out!
+  m_isPlayer: 1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac5a7f3833ff08e438d6ddaf7b17dc70, type: 3}
+  m_Name: Post-Left Puzzle Room
+  m_EditorClassIdentifier: 
+  m_section: 
+  m_sequence:
+  - {fileID: 11400000, guid: c484264ad6974144dbfd6c7c67dc2bde, type: 2}
+  - {fileID: 11400000, guid: fcb6b69d2f953d84485498e538d7d694, type: 2}
+  - {fileID: 11400000, guid: 9ef44397d6da8b2428aa39b235e308bf, type: 2}

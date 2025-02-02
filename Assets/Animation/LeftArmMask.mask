@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LeftArmMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Player_Mesh
+    m_Weight: 0
+  - m_Path: PlayerArmature
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/ForearmTwistLower_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/ForearmTwistLower_L/ForearmTwistLower_L_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/ForearmTwistUpper_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/ForearmTwistUpper_L/ForearmTwistUpper_L_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Index_01_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Index_01_L/Index_02_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Index_01_L/Index_02_L/Index_03_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Index_01_L/Index_02_L/Index_03_L/Index_04_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Index_01_L/Index_02_L/Index_03_L/Index_04_L/Index_04_L_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Middle_01_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Middle_01_L/Middle_02_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Middle_01_L/Middle_02_L/Middle_03_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Middle_01_L/Middle_02_L/Middle_03_L/Middle_04_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Middle_01_L/Middle_02_L/Middle_03_L/Middle_04_L/Middle_04_L_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Pinky_01_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Pinky_01_L/Pinky_02_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Pinky_01_L/Pinky_02_L/Pinky_03_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Pinky_01_L/Pinky_02_L/Pinky_03_L/Pinky_04_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Pinky_01_L/Pinky_02_L/Pinky_03_L/Pinky_04_L/Pinky_04_L_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Ring_01_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Ring_01_L/Ring_02_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Ring_01_L/Ring_02_L/Ring_03_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Ring_01_L/Ring_02_L/Ring_03_L/Ring_04_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Ring_01_L/Ring_02_L/Ring_03_L/Ring_04_L/Ring_04_L_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Thumb_01_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Thumb_01_L/Thumb_02_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Thumb_01_L/Thumb_02_L/Thumb_03_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_L/Upperarm_L/LowerArm_L/Wrist_L/Thumb_01_L/Thumb_02_L/Thumb_03_L/Thumb_03_L_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Root/Clavicle_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/ForearmTwistLower_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/ForearmTwistLower_R/ForearmTwistLower_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/ForearmTwistUpper_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/ForearmTwistUpper_R/ForearmTwistUpper_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Index_01_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Index_01_R/Index_02_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Index_01_R/Index_02_R/Index_03_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Index_01_R/Index_02_R/Index_03_R/Index_04_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Index_01_R/Index_02_R/Index_03_R/Index_04_R/Index_04_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Middle_01_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Middle_01_R/Middle_02_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Middle_01_R/Middle_02_R/Middle_03_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Middle_01_R/Middle_02_R/Middle_03_R/Middle_04_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Middle_01_R/Middle_02_R/Middle_03_R/Middle_04_R/Middle_04_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Pinky_01_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Pinky_01_R/Pinky_02_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Pinky_01_R/Pinky_02_R/Pinky_03_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Pinky_01_R/Pinky_02_R/Pinky_03_R/Pinky_04_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Pinky_01_R/Pinky_02_R/Pinky_03_R/Pinky_04_R/Pinky_04_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Ring_01_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Ring_01_R/Ring_02_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Ring_01_R/Ring_02_R/Ring_03_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Ring_01_R/Ring_02_R/Ring_03_R/Ring_04_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Ring_01_R/Ring_02_R/Ring_03_R/Ring_04_R/Ring_04_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Thumb_01_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Thumb_01_R/Thumb_02_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Thumb_01_R/Thumb_02_R/Thumb_03_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/Clavicle_R/Upperarm_R/LowerArm_R/Wrist_R/Thumb_01_R/Thumb_02_R/Thumb_03_R/Thumb_03_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/FPSCameraBone
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/FPSCameraBone/FPS_Camera
+    m_Weight: 0
+  - m_Path: PlayerArmature/Root/FPSCameraBone/FPSCameraBone_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_L
+    m_Weight: 1
+  - m_Path: PlayerArmature/Wrist.IK_L/Talisman
+    m_Weight: 1
+  - m_Path: PlayerArmature/Wrist.IK_L/Talisman/Talisman_end
+    m_Weight: 1
+  - m_Path: PlayerArmature/Wrist.IK_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyeball
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyeball/Eyeball_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_CTRL01_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_CTRL01_L/Eyelid_Bottom_CTRL01_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_CTRL02_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_CTRL02_L/Eyelid_Bottom_CTRL02_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_CTRL03_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_CTRL03_L/Eyelid_Bottom_CTRL03_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_Helper_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_L/Eyelid_Bottom_Helper_L/Eyelid_Bottom_Helper_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_CTRL01_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_CTRL01_R/Eyelid_Bottom_CTRL01_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_CTRL02_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_CTRL02_R/Eyelid_Bottom_CTRL02_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_CTRL03_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_CTRL03_R/Eyelid_Bottom_CTRL03_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_Helper_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Bottom_R/Eyelid_Bottom_Helper_R/Eyelid_Bottom_Helper_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_CTRL01_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_CTRL01_L/Eyelid_Top_CTRL01_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_CTRL02_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_CTRL02_L/Eyelid_Top_CTRL02_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_CTRL03_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_CTRL03_L/Eyelid_Top_CTRL03_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_Helper_L
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_L/Eyelid_Top_Helper_L/Eyelid_Top_Helper_L_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_CTRL01_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_CTRL01_R/Eyelid_Top_CTRL01_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_CTRL02_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_CTRL02_R/Eyelid_Top_CTRL02_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_CTRL03_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_CTRL03_R/Eyelid_Top_CTRL03_R_end
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_Helper_R
+    m_Weight: 0
+  - m_Path: PlayerArmature/Wrist.IK_R/SwordBase/Eyelid_Top_R/Eyelid_Top_Helper_R/Eyelid_Top_Helper_R_end
+    m_Weight: 0

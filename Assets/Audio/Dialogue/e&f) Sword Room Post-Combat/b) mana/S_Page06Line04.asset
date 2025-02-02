@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d0748d35f9bc34f9c203e145f0b9a8, type: 3}
+  m_Name: S_Page06Line04
+  m_EditorClassIdentifier: 
+  m_eventReference:
+    Guid:
+      Data1: -598643940
+      Data2: 1279981383
+      Data3: 614950067
+      Data4: 1375080934
+    Path: event:/Dialogue/f) Central Room/04_Sword_Page06_Line04
+  m_subtitle: "Ahh good, it\u2019s still working. This is something called mana.
+    It\u2019s a magic life source to this place."
+  m_isPlayer: 0

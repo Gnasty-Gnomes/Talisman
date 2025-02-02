@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac5a7f3833ff08e438d6ddaf7b17dc70, type: 3}
+  m_Name: Talisman Pedestal
+  m_EditorClassIdentifier: 
+  m_section: Talisman Sequence
+  m_sequence:
+  - {fileID: 11400000, guid: e136c57f69e38f248b21bf092442efe6, type: 2}
+  - {fileID: 11400000, guid: 92ce22ee1ce181c4abfafeb02e9fee24, type: 2}
+  - {fileID: 11400000, guid: 0fdcc7a16374e4648b9e15a9c7875e9f, type: 2}
+  - {fileID: 11400000, guid: 06eb072513921a440bce59a04d1d4915, type: 2}
+  - {fileID: 11400000, guid: d87827abb96007f4ebfeb290a70718e2, type: 2}

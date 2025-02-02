@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d0748d35f9bc34f9c203e145f0b9a8, type: 3}
+  m_Name: P_Page09Line01
+  m_EditorClassIdentifier: 
+  m_eventReference:
+    Guid:
+      Data1: 893234461
+      Data2: 1240493932
+      Data3: -1371270212
+      Data4: -1695856525
+    Path: event:/Dialogue/i) Right Puzzle Room Failure #1/02_Player_Page09_Line01
+  m_subtitle: That...was an accident.
+  m_isPlayer: 1
